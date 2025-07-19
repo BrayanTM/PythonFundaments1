@@ -1,5 +1,6 @@
 # Operadores básicos en Python
 #+ Suma
+# Suma de enteros y flotantes
 
 print(-4 + 4)
 print(-4. + 8)
@@ -25,6 +26,7 @@ print(6. / 3)
 print(6. / 3.)
 
 # // División entera
+# La división entera devuelve el cociente sin el residuo.
 
 print(6 // 3)
 print(6 // 3.)
